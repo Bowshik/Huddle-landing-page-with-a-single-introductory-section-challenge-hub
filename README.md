@@ -12,7 +12,7 @@
 ![Mobile](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/c7mkk5qtwdx23srnjzus.jpg)
 ---
 ### Links
-- #### Solution URL [Code on Github]()
+- #### Solution URL [Code on Github](https://github.com/Bowshik/Huddle-landing-page-with-a-single-introductory-section-challenge-hub)
 - #### Live URL [Live website]()
 
 ### Author
