@@ -9,7 +9,7 @@
 ### Desktop version
 ![Desktop](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/m8aueljlhfwzve7zxpy7.jpg)
 ### Mobile version
-![Mobile](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/ztdrvzpbcjytdo892pxx.jpg)
+![Mobile](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/c7mkk5qtwdx23srnjzus.jpg)
 ---
 ### Links
 - #### Solution URL [Code on Github]()
