@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with a single introductory section challenge hub
+# Frontend Mentor - Huddle landing page with a single introductory section challenge hub - Tailwindcss
 
 ##### This is a [solution to the Order summary component challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
