@@ -13,8 +13,7 @@
 ---
 ### Links
 - #### Solution URL [Code on Github](https://github.com/Bowshik/Huddle-landing-page-with-a-single-introductory-section-challenge-hub)
-- #### Live URL [Live website]()
-
+- #### Live URL [Live website](https://huddle-landing-page-frontend-mentor.netlify.app/)
 ### Author
 - #### Medium [Bowshik Sri Ram](https://medium.com/@bowshiksriram)
 - #### Linkedin  [Bowshik Sri Ram](https://www.linkedin.com/in/bowshik-sri-ram-b-a-352184213/)
